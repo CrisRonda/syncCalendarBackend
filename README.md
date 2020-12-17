@@ -7,8 +7,8 @@ The project must be used with its [frontend](https://github.com/CrisRonda/syncCa
 # How to run
 
 1. Install dependencies with yarn or npm
-2. Run with `yarn start`
-3. Refactor and enjoy! 
+2. Run with `yarn dev`
+4. Refactor and enjoy! 
 
 # Licence
 
