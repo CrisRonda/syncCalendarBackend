@@ -2,7 +2,7 @@
 
 This example implements RFC 5545 iCalendar for sync events from URL.
 
-The project must be used with its [frontend]() which you can find in my repo.
+The project must be used with its [frontend](https://github.com/CrisRonda/syncCalendarFrontEnd) which you can find in my repo.
 
 # Licence
 
